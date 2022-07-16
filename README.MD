@@ -1,0 +1,8 @@
+## Iris Classifier
+
+Gambar penjelesan project:
+
+<img src="img/simple_ml_shell.drawio.png" width="1000"/>
+
+Sebuah simulasi klasifikasi tanaman IRIS secara otomatis untuk sampling dan training.
+
